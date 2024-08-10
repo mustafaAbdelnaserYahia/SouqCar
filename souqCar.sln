@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "souqCar", "souqCar\souqCar.csproj", "{AC5810C6-B969-47E2-810D-7BD4EDE66F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5810C6-B969-47E2-810D-7BD4EDE66F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5810C6-B969-47E2-810D-7BD4EDE66F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5810C6-B969-47E2-810D-7BD4EDE66F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5810C6-B969-47E2-810D-7BD4EDE66F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B356042-9185-4D1F-BAC2-7A608D818139}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@souqCar_HostAddress = http://localhost:5029
+
+GET {{souqCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
